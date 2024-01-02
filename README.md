@@ -1,8 +1,2 @@
-# Poliklinik BK
 
-BKWD05 - Bimbingan Karier Web Development
-
-```bash
-Oriwarda Krista Alodia
-A11.2020.12606
-```
+https://drive.google.com/drive/folders/1ILl1vfcamLdke7MxPBQq6jVy-s91bbJ6?usp=sharing
